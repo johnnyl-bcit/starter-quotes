@@ -15,7 +15,7 @@ class Quotes extends CI_Model
 	var $data = array(
 		'1'	 => array('who'	 => 'Mel Brooks', 'role'	 => 'Yogurt',
 			'what'	 => 'May the schwartz be with you!'),
-		'2'	 => array('who'	 => 'John Candy', 'role'	 => 'Barf',
+		'2'	  => array('who'	 => 'John Candy', 'role'	 => 'Barf',
 			'what'	 => 'It\'s her royal highness\'s matched luggage!'),
 		'3'	 => array('who'	 => 'Rick Moranis', 'role'	 => 'Dark Helmet',
 			'what'	 => 'Ludicrous Speed, Go!'),
